@@ -3,3 +3,5 @@ numpy
 requests
 click
 matplotlib
+requests
+urllib3
