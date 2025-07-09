@@ -5,3 +5,5 @@ click
 matplotlib
 requests
 urllib3
+pykalman
+statsmodels
